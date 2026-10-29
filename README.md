@@ -1,5 +1,7 @@
 # Form & Field
 
+**Live demo:** [form0-and-field.netlify.app](https://form0-and-field.netlify.app/)
+
 A complete four-page portfolio demo for a fictional premium European renovation studio. Built with Next.js App Router, React, TypeScript and Tailwind CSS v4. Original branding; no fabricated clients, reviews, awards or completed-project claims.
 
 ![Form & Field desktop preview](docs/screenshots/redesign-desktop.png)
@@ -66,4 +68,4 @@ See [ASSETS.md](ASSETS.md) for stock image sources and licence information and [
 
 ## Deployment
 
-This is a standard Node-hosted Next.js project. Install with `npm ci`, build with `npm run build`, serve with `npm run start`, and supply `NEXT_PUBLIC_SITE_URL` at build time. Commit the generated package-lock.json. No secrets, database or API credentials are needed. Before adapting for a real company, replace illustrative imagery and business content, confirm licences and contact handling, add appropriate privacy information, and connect a secure server-side submission endpoint. This deliverable has not been published.
+This is a standard Node-hosted Next.js project. Install with `npm ci`, build with `npm run build`, serve with `npm run start`, and supply `NEXT_PUBLIC_SITE_URL` at build time. Commit the generated package-lock.json. No secrets, database or API credentials are needed. Before adapting for a real company, replace illustrative imagery and business content, confirm licences and contact handling, add appropriate privacy information, and connect a secure server-side submission endpoint. The live demo is hosted on Netlify at https://form0-and-field.netlify.app/.
